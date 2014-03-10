@@ -1,4 +1,4 @@
-Usage
+Clone
 =====
 
 You have to run this command for clone the repository:
